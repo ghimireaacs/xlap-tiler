@@ -52,7 +52,7 @@ Clone this repository, `cd` into the project directory, and run the `make instal
 
 
 ```bash
-git clone [https://github.com/ghimireaacs/xlap-tiler.git](https://github.com/ghimireaacs/xlap-tiler.git)
+git clone https://github.com/ghimireaacs/xlap-tiler.git
 cd xlap-tiler
 sudo make install
 ```
