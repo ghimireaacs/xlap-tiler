@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Version=1.0.0
+Name=Xlap-Tiler
+Comment=Context-aware window tiler for Debian-based systems
+Exec=/usr/bin/xlap-tiler
+Icon=view-grid-symbolic
+Terminal=false
+Categories=Utility;System;DesktopSettings;
+
