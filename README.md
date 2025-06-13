@@ -2,7 +2,7 @@
 
 A lightweight, context-aware window tiling tool for X11-based Linux desktops, forked from the original `xlap` and enhanced for a more intuitive workflow.
 
-![Xlap-Tiler Demo](https://i.imgur.com/rG2v0KW.gif)
+![Xlap-Tiler Demo](./XtilerDemo.gif)
 
 ---
 
